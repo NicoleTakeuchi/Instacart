@@ -5,6 +5,9 @@ Project organization
 - Exploratory data analysis
 - Data cleaning/prep
 - PCA / K-means Clustering
-- Collaberative filtering model
-- Model evaluation (RMSE, recall and precision)
+- Feature Selection
+- Logistic Regression
+- Naive Bayes
+- Support Vector Machine
+- Model evaluation (Accuracy, recall, precision, F1 score, AUC)
 - Evaluate results
